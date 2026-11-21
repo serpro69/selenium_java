@@ -10,7 +10,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.selenium.version>2.44.0</project.selenium.version>
-    <groovyVersion>2.2.2</groovyVersion>
+    <groovyVersion>2.4.21</groovyVersion>
     <log.root>./target</log.root>
   </properties>
   <dependencies>
@@ -24,7 +24,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.8.2</version>
+      <version>4.13.1</version>
       <scope>test</scope>
     </dependency>
     <dependency>
